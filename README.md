@@ -70,6 +70,8 @@ hobbies: ["Gaming", "Anime", "Art"]
 <h2>📊 My GitHub Stats</h2>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=dan7841)
+![Trophy](https://github-profile-trophy.vercel.app/?username=dan7841)
+
 
 
 

@@ -67,8 +67,12 @@ hobbies: ["Gaming", "Anime", "Art"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" alt="trello" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="45" height="45"/>
           
-<h2>My GitHub History</h2>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dan7841)](https://github.com/dan7841/github-readme-stats)        
+<h2>📊 My GitHub Stats</h2>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dan7841&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dan7841&layout=compact&theme=tokyonight)
+
+
 
 
 

@@ -69,8 +69,10 @@ hobbies: ["Gaming", "Anime", "Art"]
           
 <h2>📊 My GitHub Stats</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dan7841&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dan7841&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=dan7841)
+
+
+
 
 
 

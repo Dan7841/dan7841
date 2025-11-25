@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 <!--
 **Dan7841/dan7841** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+```yaml
+name: Dan Peters
+current_job: Student Full-Stack Developer
+education:
+ [
+  Studying for my BSc (Hons) for Games Design & Development at the University of Winchester
+ [
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+fields_of_interests:
+ [
+  "Web Development"
+  "Game Development"
+  "UI/UX"
+  "Artificial Intelligence"
+ [
+
+currently_learning: ["HTML5, CSS3, JavaScript"]
+2025 Goals: ["Become completely confident in HTML5 & CSS3, have good understanding of JavaScript"]
+hobbies: ["Gaming", "Anime", "Art"]
+```
+
+ 
           

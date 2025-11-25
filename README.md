@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h2> A Little About Me & My Interests</h2>
+
 ```yaml
 name: Dan Peters
 current_job: Student Full-Stack Developer

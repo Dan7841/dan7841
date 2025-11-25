@@ -68,6 +68,7 @@ hobbies: ["Gaming", "Anime", "Art"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="45" height="45"/>
           
 <h2>📊 My GitHub Stats</h2>
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=dan7841)
 ![Trophy](https://github-profile-trophy.vercel.app/?username=dan7841)
 

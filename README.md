@@ -34,7 +34,7 @@ fields_of_interests:
  [
 
 currently_learning: ["HTML5, CSS3, JavaScript"]
-2025 Goals: ["Become completely confident in HTML5 & CSS3, have good understanding of JavaScript"]
+2026 Goals: ["Become completely confident in JavaScript"]
 hobbies: ["Gaming", "Anime", "Art"]
 ```
 <h2>Some Tools I Have Used & Learned</h2>

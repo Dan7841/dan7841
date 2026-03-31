@@ -5,14 +5,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Travel Guide React App
+- 🌱 I’m currently learning React JS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I have watched 57 days of anime.
 -->
 
 <h2> A Little About Me & My Interests</h2>
@@ -33,7 +33,7 @@ fields_of_interests:
   "Artificial Intelligence"
  [
 
-currently_learning: ["HTML5, CSS3, JavaScript"]
+currently_learning: ["React"]
 2026 Goals: ["Become completely confident in JavaScript"]
 hobbies: ["Gaming", "Anime", "Art"]
 ```

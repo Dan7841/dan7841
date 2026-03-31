@@ -34,7 +34,7 @@ fields_of_interests:
  [
 
 currently_learning: ["React"]
-2026 Goals: ["Become completely confident in JavaScript"]
+2026 Goals: ["Eventually create a fully realised full-stack application"]
 hobbies: ["Gaming", "Anime", "Art"]
 ```
 <h2>Some Tools I Have Used & Learned</h2>
